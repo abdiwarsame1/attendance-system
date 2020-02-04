@@ -1,7 +1,12 @@
-body{
-    background-color: antiquewhite;
+
+
+#container{
+    border: 2px solid red;
+    display: none;
 }
 
-p{
-    font-weight: bold;
+#snapshot{
+    border: 10px dotted yellow;
+    width: 620px;
+    height: 320px;
 }
