@@ -1,4 +1,6 @@
-
+#background{
+    background: orangered; 
+}
 
 #container{
     border: 2px solid red;
@@ -6,7 +8,7 @@
 }
 
 #snapshot{
-    border: 10px dotted blue;
+    border: 10px double blue;
     width: 620px;
     height: 320px;
 }
